@@ -1,2 +1,2 @@
 # Demo
-https://dzareldeveloper.github.io/ForYou/
+https://kodomokuri.github.io/ForYou/cringee
