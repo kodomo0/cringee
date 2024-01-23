@@ -1,2 +1,2 @@
 # Demo
-https://kodomokuri.github.io/ForYou/cringee
+https://kodomokuri.github.io/cringee
